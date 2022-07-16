@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.main{
+    background-image: url(../img/fondoparu.jpg);
+}
+
+@import './secciones/index';
+@import './secciones/header';
